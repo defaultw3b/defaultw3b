@@ -16,8 +16,11 @@
 ### 🧠Learning
  
  ➤💻Bash
+ 
  ➤ WebH
+ 
  ➤ Python
+ 
  ➤ JavaScript
  
 
