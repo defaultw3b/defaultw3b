@@ -8,12 +8,12 @@
 
 ### ● 🖥️ Informatique Lover
 
-# ➤Web
-# ➤OSINT
+ ➤Web
+ ➤OSINT
 
 ─────────────────────────────────────
 
 ### 🧠Learning
  
-# ➤💻Bash
+ ➤💻Bash
 
