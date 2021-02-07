@@ -10,19 +10,20 @@
 
 ### ● 🖥️ Informatique Lover
 
- ➤Web
- ➤OSINT
+ ➥Web
+ 
+ ➥OSINT
 
 ─────────────────────────────────────
 
 # 🧠Learning
  
- ➤💻Bash
+ ➥💻Bash
  
- ➤ WebH
+ ➥ WebH
  
- ➤ Python
+ ➥🐍Python
  
- ➤ JavaScript
+ ➥ JavaScript
  
 
