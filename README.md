@@ -2,7 +2,7 @@
 
 ─────────────────────────────────────
 
-## ➤ Contact Me on discord : Default [CSΔ x LUNΔЯİS]#1234
+## ➤ Contact Me on discord : Default [Lead CSΔ]#1234
 
 ## ➤ Twitter : @VInstantdown
 
